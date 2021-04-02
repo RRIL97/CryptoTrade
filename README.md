@@ -1,5 +1,5 @@
 # CryptoTrade
-A Crypto trading bot in the making. Utilizes Binance API & Will integrate by bit.
+A Crypto trading bot in the making. Utilizes Binance API at the moment.
 
 Has the following indicators built in and tested against trading view.
 
