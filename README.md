@@ -1,7 +1,7 @@
 # CryptoTrade
 A Crypto trading bot in the making. Utilizes Binance API at the moment.
 
-Has the following indicators built in and tested against trading view.
+Has the following indicators built in and tested against tradingview.
 
 -------
 
@@ -28,5 +28,15 @@ WMA
 
 
 ------
-Picture of Hull Moving Average on graph:
 ![Hull moving average](https://i.imgur.com/CNOTI8I.png)
+
+
+
+------
+
+TO DO LIST:
+
+1) Back testing
+2) Automatic trading
+3) Paper trading - simulation
+4) Strats
