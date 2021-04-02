@@ -1,7 +1,7 @@
-# CryptoTrade
-A Crypto trading bot in the making. Utilizes Binance API at the moment.
+# CryptoTrade 
+A Crypto trading bot in the making. Utilizes Binance API at the moment. (UNFINISHED)
 
-Has the following indicators built in and tested against tradingview.
+Has the following indicators built in which were tested against tradingview logic.
 
 -------
 
@@ -40,3 +40,6 @@ TO DO LIST:
 2) Automatic trading
 3) Paper trading - simulation
 4) Strats
+
+
+This is a fun project and is unfinished. 
