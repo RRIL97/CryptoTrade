@@ -1,8 +1,18 @@
 # CryptoTrade 
 A Crypto trading bot in the making. Utilizes Binance API at the moment. (UNFINISHED)
 
-Has the following indicators built in which were tested against tradingview logic.
+------
+TO DO LIST:
 
+1) Back testing against old trading info
+2) Automatic trading via the bybit api/ binance api.
+3) Paper trading - simulation (Same as real trading)
+4) Strats - different starts
+
+This is a fun project and is currently unfinished. (Will be worked on whenever I will have some free time)
+
+
+List of indicators:
 -------
 
 EMA
@@ -29,17 +39,3 @@ WMA
 
 ------
 ![Hull moving average](https://i.imgur.com/CNOTI8I.png)
-
-
-
-------
-
-TO DO LIST:
-
-1) Back testing
-2) Automatic trading
-3) Paper trading - simulation
-4) Strats
-
-
-This is a fun project and is unfinished. 
