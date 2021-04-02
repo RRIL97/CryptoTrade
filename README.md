@@ -4,15 +4,15 @@ A Crypto trading bot in the making. Utilizes Binance API at the moment. (UNFINIS
 ------
 TO DO LIST:
 
-1) Back testing against old trading info
-2) Automatic trading via the bybit api/ binance api.
-3) Paper trading - simulation (Same as real trading)
-4) Strats - different starts
+1) Back testing
+2) Automatic trading via bybit official api/ binance api.
+3) Paper trading - simulation (Same as real trading but with paper money)
+4) Custom strategies 
 
-This is a fun project and is currently unfinished. (Will be worked on whenever I will have some free time)
+This is a fun project and is currently unfinished.
 
 
-List of indicators:
+List of coded & tested indicators:
 -------
 
 EMA
